@@ -1,2 +1,2 @@
 # ScriptOS
-Folderworks; folder background-functions.
+Folderworks; background folder-functions.
