@@ -1,2 +1,2 @@
-# ScriptOS
+# PaperOS
 Folderworks; background folder-functions.
